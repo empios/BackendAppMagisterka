@@ -1,0 +1,3 @@
+[submodule "BackendAppMagisterka"]
+	path = BackendAppMagisterka
+	url = https://github.com/empios/BackendAppMagisterka.git
